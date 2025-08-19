@@ -1,5 +1,5 @@
 # Prediccion-de-Desercion-Estudiantil-Universitaria
-Repositorio con fines analíticos y predicciones acerca de la entregas de plimas por año 
+Repositorio con fines analíticos y predicciones acerca de la entregas de diplomas por año 
 
 ## Visualizaciones 
 1. Resumen general
